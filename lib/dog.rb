@@ -11,3 +11,6 @@ class Dog
   def bark
     puts "woof!"
   end
+  
+red = Dog.new 
+red.name = "Red"
