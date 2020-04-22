@@ -14,3 +14,4 @@ class Dog
   
 red = Dog.new 
 red.name = "Red"
+puts red.name
